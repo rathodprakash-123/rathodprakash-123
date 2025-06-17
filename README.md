@@ -1,6 +1,6 @@
 ## Hi I'm Rathod Prakash 👋
 I'm a Graphic Designer & Fullstack Developer
-Computer Engineering Student From LDCE
+
 <!--
 **rathodprakash-123/rathodprakash-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
