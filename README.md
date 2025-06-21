@@ -1,4 +1,4 @@
-## Hi I'm Rathod Prakash 👋
+## Hi I'm Prakash Rathod 👋
 I'm a Graphic Designer & Fullstack Developer
 
 <!--
